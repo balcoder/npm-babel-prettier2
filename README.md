@@ -5,7 +5,7 @@ A collection of packages that build a website using `npm scripts`.
 * [Packages used](#Packages-used)
 * [Using in your project](#using-in-your-project)
 * [List of available tasks](#list-of-available-tasks)
-* [Need help?](#need-help)
+
 
 ## Packages used
   * [prettier](https://www.npmjs.com/package/prettier)
